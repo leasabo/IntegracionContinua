@@ -5,5 +5,5 @@ test('2 + 5 = 7', () => {
 });
 
 test('a + 5 = a5', () => {
-  expect(suma('a', 5)).toBe('ab');
+  expect(suma('a', 5)).toBe('a5');
 });
